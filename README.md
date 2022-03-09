@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinesh
+- 👋 Hi, I’m Dinesh
 - 👀 I’m interested in exploring new technology and tools
 - 🌱 I’m currently learning DevOps Tools & Technologies
 - 💞️ I’m looking to collaborate on Test Automation Frameworks Development(Web, Mobile and API)
