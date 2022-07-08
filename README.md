@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh11990&show_icons=true&locale=en&show_icons=true&theme=radical" alt="dinesh11990" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh11990&show_icons=true&theme=radical" alt="dinesh11990" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh11990)](https://github.com/dinesh11990/github-readme-stats)
