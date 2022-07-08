@@ -1,7 +1,7 @@
-[![MasterHead](https://www.nexsoftsys.com/images/Functional-trainging.gif)]
+<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
 <h3 align="center">Hi 👋, I'm dinesh - A passionate QA Engineer</h1>
 <!---<h3 align="center">A passionate QA Engineer</h3>--->
-<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
+<!---<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh11990&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh11990" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh11990" alt="dinesh11990" /></a> </p>
 
