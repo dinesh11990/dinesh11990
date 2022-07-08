@@ -6,7 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh11990" alt="dinesh11990" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+- 👋 Hi, I’m Dinesh
+- 👀 I’m interested in exploring new technology and tools
+- 🌱 I’m currently learning DevOps Tools & Technologies
+- 💞️ I’m looking to collaborate on UI Automation Frameworks Development(Web, Mobile and API)
+- 📫 Contact me at dinesh11990@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/epdinesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/epdinesh/" height="30" width="40" /></a>
