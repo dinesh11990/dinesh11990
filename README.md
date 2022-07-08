@@ -1,7 +1,7 @@
-[![MasterHead]<img align = "center" alt="Coding" width="400" src="https://media.istockphoto.com/vectors/quality-assurance-banner-and-icons-vector-id638523142?s=612x612">
+[![MasterHead](https://media.istockphoto.com/vectors/quality-assurance-banner-and-icons-vector-id638523142?s=612x612)]
 <h1 align="center">Hi 👋, I'm dinesh</h1>
 <h3 align="center">A passionate QA Engineer</h3>
-<img align = "center" alt="Coding" width="400" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
+<img align = "right" alt="Coding" width="400" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh11990&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh11990" /> </p>
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh11990&show_icons=true&locale=en" alt="dinesh11990" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh11990&" alt="dinesh11990" /></p>
-
