@@ -1,13 +1,8 @@
 [![MasterHead](https://media.istockphoto.com/vectors/quality-assurance-banner-and-icons-vector-id638523142?s=612x612)]
 <h1 align="center">Hi 👋, I'm dinesh</h1>
 <h3 align="center">A passionate QA Engineer</h3>
-<img align = "right" alt="Coding" width="260" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
-.t-image {
-    position: relative /* Declared position allows for location changes */
-    top: -2px; /* Moves the image 2px closer to the top of the page */
-}
+<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh11990&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh11990" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh11990" alt="dinesh11990" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
