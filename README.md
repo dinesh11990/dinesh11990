@@ -9,4 +9,4 @@ dinesh11990/dinesh11990 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-readme-stats.vercel.app/api?username=dinesh11990&show_icons=true&theme=radical
+![Dinesh GitHub stats]https://github-readme-stats.vercel.app/api?username=dinesh11990&show_icons=true&theme=radical
