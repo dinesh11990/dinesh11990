@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/vectors/quality-assurance-banner-and-icons-vector-id638523142?s=612x612)]
+![MasterHead](https://media.istockphoto.com/vectors/quality-assurance-banner-and-icons-vector-id638523142?s=612x612)
 <h3 align="center">Hi 👋, I'm dinesh - A passionate QA Engineer</h1>
 <!---<h3 align="center">A passionate QA Engineer</h3>--->
 <!---<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">--->
