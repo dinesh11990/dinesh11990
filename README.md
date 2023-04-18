@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=++++++++++++++++++++Hi%2C+I'm+Dinesh;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
-<h3 align="center">Hi 👋, I'm Dinesh </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!---<h3 align="center">A passionate QA Engineer</h3>--->
 <!---<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh11990&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh11990" /> </p>
