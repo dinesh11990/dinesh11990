@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Dinesh)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=++++++++++++++++++++Hi%2C+I'm+Dinesh;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 <h3 align="center">Hi 👋, I'm Dinesh </h1>
 <!---<h3 align="center">A passionate QA Engineer</h3>--->
 <!---<img align = "right" alt="Coding" width="290" src="https://www.nexsoftsys.com/images/Functional-trainging.gif">--->
