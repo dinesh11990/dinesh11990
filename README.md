@@ -7,7 +7,7 @@
 <p>- 👀 I&rsquo;m interested in exploring new technology and tools <br>- 🌱 Passinate QA/DevOps/Cloud Engineer <br> - 💞️ I&rsquo;m looking to collaborate on UI Automation Frameworks Development(Web, Mobile and API)/ Devops / Cloud <br> - 📫 Contact me at dinesh11990@gmail.com</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/epdinesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/epdinesh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/epdinesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dinesh11990/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dinesh11990/hackos" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dineshbabu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dineshbabu/" height="30" width="40" /></a>
 </p>
